@@ -42,6 +42,11 @@ You'll need a web browser to run this project.
 
 -----
 
+## Live Demo
+
+[https://nothingissecure.github.io/calculator-with-javascript/]
+
+
 ## Usage 🖱️
 
 Once you have the project set up, you can use the calculator by clicking on the buttons with your mouse. The calculator works just like a physical calculator.
